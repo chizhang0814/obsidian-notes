@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "attachmentFolderPath": "4.1 附件",
-  "promptDelete": false
+  "promptDelete": false,
+  "showRibbon": true
 }

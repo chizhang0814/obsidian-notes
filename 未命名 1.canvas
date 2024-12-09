@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4c8ac342ddd07c78","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b9b547cd7f19df8d","type":"text","text":"开场自我介绍","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"1ed2c6a3b91a3c89","type":"text","text":"聊一聊AI的进展","x":-125,"y":120,"width":250,"height":60},
+		{"id":"90c5fa1d4bc4b762","type":"text","text":"达特茅斯会议，图灵检测","x":160,"y":60,"width":250,"height":60},
+		{"id":"022704c9095c6969","type":"text","text":"给人工智能定义","x":160,"y":150,"width":250,"height":60},
+		{"id":"e6d24a4affbe7ae7","type":"text","text":"AI实例","x":160,"y":240,"width":250,"height":60},
+		{"id":"c2abdee818a569c2","type":"text","text":"说一下电影里的AI：霹雳游侠，SNOWAI，贾维斯","x":160,"y":340,"width":250,"height":60},
+		{"id":"b51f3b682ddcd8a8","type":"text","text":"当前AI：生成式模型，大模型（早期模型仅仅大）","x":160,"y":440,"width":250,"height":60},
+		{"id":"77dfabd153d97b8b","x":160,"y":540,"width":250,"height":60,"type":"text","text":"所有的应用都值得用AI做一遍"},
+		{"id":"73c50a644f10c192","x":160,"y":640,"width":250,"height":60,"type":"text","text":"对AI技术的恐惧，早期纺织工人"}
+	],
+	"edges":[
+		{"id":"d1a00675469669d6","fromNode":"1ed2c6a3b91a3c89","fromSide":"right","toNode":"90c5fa1d4bc4b762","toSide":"left"},
+		{"id":"43ddc68b160906ff","fromNode":"90c5fa1d4bc4b762","fromSide":"bottom","toNode":"022704c9095c6969","toSide":"top"},
+		{"id":"2e9d3c01eda338c7","fromNode":"022704c9095c6969","fromSide":"bottom","toNode":"e6d24a4affbe7ae7","toSide":"top"},
+		{"id":"cd02fbf6f82efb3b","fromNode":"e6d24a4affbe7ae7","fromSide":"bottom","toNode":"c2abdee818a569c2","toSide":"top"},
+		{"id":"c3a0057a5f40a19d","fromNode":"c2abdee818a569c2","fromSide":"bottom","toNode":"b51f3b682ddcd8a8","toSide":"top"},
+		{"id":"f599964647dd5a94","fromNode":"b51f3b682ddcd8a8","fromSide":"bottom","toNode":"77dfabd153d97b8b","toSide":"top"},
+		{"id":"427e321a7eec7677","fromNode":"77dfabd153d97b8b","fromSide":"bottom","toNode":"73c50a644f10c192","toSide":"top"}
+	]
+}
