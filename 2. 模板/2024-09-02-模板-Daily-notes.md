@@ -1,19 +1,32 @@
  #模板  #记录 #日记
 
 ## 计划
-
-planing...
-
 <button class="sparkles">Pika pika pikachu !</button>
 
 ## 日记 Diary
 
-- 今天做了什么 ?What did you do today?
-- 做的怎么样 ? How did it go?
-- 有什么问题 ?Were there any issues?
-- 有更好的方式吗 ?Is there a better way?
-- 明天准备怎么做 ?What's the plan for tomorrow?
-- 另外，有什么有趣的事情吗 ? 印象深刻的事情呢？Also, was there anything interesting? Anything particularly memorable?
+| 时间段       | 事件  |
+| --------- | --- |
+| 0900-0930 |     |
+| 0930-1000 |     |
+| 1000-1030 |     |
+| 1030-1100 |     |
+| 1100-1130 |     |
+| 1130-1200 |     |
+| 1200-1230 |     |
+| 1230-1300 |     |
+| 1300-1330 |     |
+| 1330-1400 |     |
+| 1400-1430 |     |
+| 1430-1500 |     |
+| 1500-1530 |     |
+| 1530-1600 |     |
+| 1600-1630 |     |
+| 1630-1700 |     |
+| 1700-1730 |     |
+| 1730-1800 |     |
+| 1800-1830 |     |
+
 
 ### <主题>
 
