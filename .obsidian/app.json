@@ -5,8 +5,8 @@
   "showLineNumber": true,
   "attachmentFolderPath": "4.1 附件",
   "promptDelete": false,
-  "showRibbon": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

@@ -1,0 +1,7 @@
+{
+  "templateHeading": "## 待办",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": false,
+  "rolloverChildren": false,
+  "rolloverOnFileCreate": true
+}
